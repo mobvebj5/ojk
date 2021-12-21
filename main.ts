@@ -1,0 +1,6 @@
+game.showLongText("HI ", DialogLayout.Bottom)
+game.showLongText("I AM MOBVEB ", DialogLayout.Bottom)
+game.showLongText(game.askForNumber("what is your age? "), DialogLayout.Bottom)
+game.showLongText("Okay", DialogLayout.Bottom)
+game.showLongText(game.askForString("and your name?"), DialogLayout.Bottom)
+game.showLongText("Your name is very beautiful", DialogLayout.Bottom)
